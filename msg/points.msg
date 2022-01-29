@@ -1,1 +1,2 @@
-# frontier points obtained through the wfd algorithm
+float64[] x
+float64[] y
